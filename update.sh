@@ -3,6 +3,9 @@
 set -eo pipefail
 
 declare -a versions=(
+    2.13.0-M5
+    2.12.6
+    2.12.5
     2.12.4
     2.12.3
     2.12.2
